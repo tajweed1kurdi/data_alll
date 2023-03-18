@@ -1,18 +1,12 @@
-{ "students":[
-	{
-  "id": "idgham",
-  "title": "idgham,iqlab,ixfa,izhar",
-  "description": "hamuyan pawakawa oeyan dalen hukmakani nuni sakin"
-},
-		{
-  "id": "idgham",
-  "title": "idgham,iqlab,ixfa,izhar",
-  "description": "hamuyan pawakawa oeyan dalen hukmakani nuni sakin"
-},
-		{
-  "id": "idgham",
-  "title": "idgham,iqlab,ixfa,izhar",
-  "description": "hamuyan pawakawa oeyan dalen hukmakani nuni sakin"
-}
-]
+{
+  "students": [
+    {
+      "id": "mark dacer",
+      "title": "afjdsg",
+    },
+     {
+      "id": "juan cruz",
+      "title": "mjn",
+    }
+    ]
 }
