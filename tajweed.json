@@ -4,22 +4,28 @@
     {
     "id": 1,
     "title": "حوکمەکانی نوونی (ساکن) و نوونی تەنوین",
-    "description": "الإظهار ٫ الإدغام ٫ الإقلاب ٫ الإخفاء" 
+    "description": "الإظهار ٫ الإدغام ٫ الإقلاب ٫ الإخفاء" ,
+    "description2": "bismilahy rahmani rahim banawy xuday gaura lerada bas la tajweed dakain ba asani hewadarm sudi habe botan " 
     },
     {
     "id": 2,
     "title": "حوکمەکانی میمی (ساکن)",
-    "description": "الإدغام الشفوي ٫ الإخفاء الشفوي ٫ الإظهار الشفوي" 
+    "description": "الإدغام الشفوي ٫ الإخفاء الشفوي ٫ الإظهار الشفوي" ,
+    "description2": "bismilahy rahmani rahim banawy xuday gaura lerada bas la tajweed dakain ba asani hewadarm sudi habe botan " 
+     
     },
     {
     "id": 3,
     "title": "حوکمەکانی درێژکردنەوە ",
-    "description": "المــــد" 
+    "description": "المــــد",
+    "description2": "bismilahy rahmani rahim banawy xuday gaura lerada bas la tajweed dakain ba asani hewadarm sudi habe botan " 
     },
        {
     "id": 4,
     "title": "هــژان ",
-    "description": "القلقلة" 
+    "description": "القلقلة" ,
+    "description2": "bismilahy rahmani rahim banawy xuday gaura lerada bas la tajweed dakain ba asani hewadarm sudi habe botan " 
+        
     }
   ]
  }
